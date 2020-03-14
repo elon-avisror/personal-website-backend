@@ -1,0 +1,121 @@
+{
+  "software_engineer": {
+    "basic_info": {
+      "first_name": "Elon",
+      "last_name": "Avisror",
+      "phone_number": "050-3006092",
+      "address": {
+        "street": "Hahashmonaim",
+        "house_number": "16",
+        "enterance": "2",
+        "city": "Yeruham"
+      }
+    },
+    "job_title": "Full Stack Software Engineer",
+    "resume": {
+      "jobs_history": [
+        {
+          "job_name": "Cambium Applicable Innovation",
+          "starting_year": "2018",
+          "ending_year": "",
+          "job_title": "Software Developer"
+        },
+        {
+          "job_name": "SCE",
+          "starting_year": "2016",
+          "ending_year": "2019",
+          "job_title": "Library"
+        }
+      ],
+      "programming_languages": [
+        "php",
+        "javascript",
+        "typescript",
+        "python",
+        "bash",
+        "c",
+        "c++",
+        "java",
+        "c#"
+      ],
+      "technologies": ["nodejs", "docker", "blockchain"],
+      "platforms": [".net", "symfony"],
+      "cloud": ["gcloud", "aws"],
+      "packages": ["puppeteer", "express", "aws-sdk", "mysql", "mongodb"],
+      "database": ["mysql", "mongodb"],
+      "tools": ["workbench", "vscode", "postman", "swagger"],
+      "strengthes": ["fast-learner", "high-performance"]
+    },
+    "links": [
+      {
+        "name": "github",
+        "link": "https://github.com/elon-avisror",
+        "icon": "some-url-of-github-icon"
+      },
+      {
+        "name": "linkedin",
+        "link": "https://www.linkedin.com/in/elon-avisror/",
+        "icon": "some-url-of-github-icon"
+      },
+      {
+        "name": "facebook",
+        "link": "https://www.facebook.com/elon.avisror",
+        "icon": "some-url-of-facebook-icon"
+      },
+      {
+        "name": "instagram",
+        "link": "some-url-of-",
+        "icon": "some-url-of-instagram-icon"
+      },
+      {
+        "name": "gmail",
+        "link": "mail-to",
+        "icon": "some-url-of-gmail-icon"
+      },
+      {
+        "name": "twitter",
+        "link": "https://twitter.com/elon_avisror",
+        "icon": "some-url-of-twitter-icon"
+      }
+    ],
+    "projects": [
+      {
+        "name": "wac",
+        "languages": ["php", "nodejs", "javascript"],
+        "db": "mysql",
+        "packages": ["puppeteer", "express"]
+      },
+      {
+        "name": "cmc",
+        "languages": [""],
+        "db": "",
+        "packages": [""]
+      },
+      {
+        "name": "pwm",
+        "languages": [""],
+        "db": "",
+        "packages": [""]
+      },
+      {
+        "name": "mt",
+        "languages": [""],
+        "db": "blockchain",
+        "packages": [""]
+      },
+      {
+        "name": "cmc",
+        "languages": [""],
+        "db": "",
+        "packages": [""]
+      }
+    ],
+    "diploma": {
+      "name": "BSc.",
+      "title": "Software Engineering",
+      "academic": "SCE"
+    },
+    "certificates": []
+  },
+  "story": "Married with happy and have a little girl baby"
+}
