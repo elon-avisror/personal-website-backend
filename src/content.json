@@ -53,6 +53,16 @@
         "icon": "some-url-of-github-icon"
       },
       {
+        "name": "gitlab",
+        "link": "https://gitlab.com/elon-avisror",
+        "icon": "some-url-of-gitlab-icon"
+      },
+      {
+        "name": "bitbocket",
+        "link": "https://bitbucket.org/elon-avisror/",
+        "icon": "some-url-of-bitbocket-icon"
+      },
+      {
         "name": "linkedin",
         "link": "https://www.linkedin.com/in/elon-avisror/",
         "icon": "some-url-of-github-icon"
@@ -64,12 +74,12 @@
       },
       {
         "name": "instagram",
-        "link": "some-url-of-",
+        "link": "https://www.instagram.com/elon_avisror/",
         "icon": "some-url-of-instagram-icon"
       },
       {
         "name": "gmail",
-        "link": "mail-to",
+        "link": "avisror.elon@gmail.com",
         "icon": "some-url-of-gmail-icon"
       },
       {
