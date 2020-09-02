@@ -39,10 +39,10 @@
         "c#"
       ],
       "technologies": ["nodejs", "docker", "blockchain"],
-      "platforms": [".net", "symfony"],
+      "platforms": [".net", "symfony", "react"],
       "cloud": ["gcloud", "aws"],
       "packages": ["puppeteer", "express", "aws-sdk", "mysql", "mongodb"],
-      "database": ["mysql", "mongodb"],
+      "database": ["mysql", "mongodb", "postgresql"],
       "tools": ["workbench", "vscode", "postman", "swagger"],
       "strengthes": ["fast-learner", "high-performance"]
     },
